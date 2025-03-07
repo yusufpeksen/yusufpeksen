@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Hi 👋, I'm Ahmed Yusuf PEKSEN. CENG Student at Ege University. Class 4 / 4.<br><br>🐧 Frontend , React , Tailwind , Selenium , Java , Test Automation , Test Engineering , Python. <br><br>🛠️ I’m currently working on freelance websites.
+Hi 👋, I'm Ahmed Yusuf PEKSEN. CENG Student at Ege University. Class 4 / 4.<br><br>🐧 Software Engineer at Yapı Kredi Teknoloji <br><br>🛠️
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmed-yusuf-pek%C5%9Fen-a174a81a1/) 
